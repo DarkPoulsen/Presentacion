@@ -47,7 +47,7 @@ BereniceTV v2.1 Beta © 2026
 <img src="https://www.profesionalonline.com/blog/wp-content/uploads/2026/03/1634238771-python-extension-economicas_1200_1200.jpg" alt="Código en una pantalla" width="80%" />
 <br><br>
 
-Aplicaciones y herramientas para en la gestión de almacenes con Python.
+Aplicaciones y herramientas para la gestión de almacenes con Python.
 
 <p><code>Python</code></p>
 
