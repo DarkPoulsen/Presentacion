@@ -33,7 +33,7 @@ BereniceTV v2.1 Beta © 2026
 
 <p><code>HTML</code> <code>CSS</code> <code>Python</code> <code>JavaScript</code></p>
 
-<a href="#"><img src="https://img.shields.io/badge/Ver_proyecto-E3242B?style=for-the-badge" alt="Ver Proyecto"></a>
+<a href="https://berenicetv.berenicetv.workers.dev/"><img src="https://img.shields.io/badge/Ver_proyecto-E3242B?style=for-the-badge" alt="Ver Proyecto"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ver_código-000000?style=for-the-badge&logo=github" alt="Código"></a>
 
 <br><br><br>
