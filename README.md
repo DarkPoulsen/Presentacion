@@ -11,13 +11,13 @@
 
 ---
 
-## 👋 Sobre NAVRI
+## 👋 Acerca de nosotros: NAVRI
 
 Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunimos nuestros experimentos, páginas web y herramientas hechas con **HTML, CSS, JavaScript y Python**.
 
 > 🚀 **Aprendemos haciendo:** cada proyecto es una oportunidad para probar algo nuevo.
 
-## ✨ Proyectos
+## ✨ Nuestros Proyectos
 
 <div align="center">
 
@@ -27,6 +27,7 @@ Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunim
 <br><br>
 
 Un sitio web hecho para fans del cine.
+<br>
 <br>
 BereniceTV v2.1 Beta © 2026
 
@@ -41,12 +42,12 @@ BereniceTV v2.1 Beta © 2026
 
 <br><br>
 
-### 🐍 NAVRI Python
+### 🐍 Proyectos en Python
 
 <img src="https://www.profesionalonline.com/blog/wp-content/uploads/2026/03/1634238771-python-extension-economicas_1200_1200.jpg" alt="Código en una pantalla" width="80%" />
 <br><br>
 
-Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprender programación.
+Aplicaciones y herramientas para en la gestión de almacenes con Python.
 
 <p><code>Python</code></p>
 
@@ -82,4 +83,4 @@ Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprend
 
 <div align="center">
 
-**NAVRI · Crear, aprender y compartir.** <br
+**NAVRI · Crear, aprender y compartir.**
