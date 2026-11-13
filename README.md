@@ -55,7 +55,7 @@ Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprend
 
 </div>
 
-> 💡 **Nota:** Reemplaza los enlaces `#` en el código por las URLs de tus repositorios.
+> 💡 **Aviso:** Nuestro codigo no se alojan completo en este repositorios.
 
 ## 🧰 Lo que usamos
 
@@ -73,7 +73,7 @@ Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprend
 
 <div align="center">
   <img src="https://universidadeuropea.com/resources/media/images/usos-python_800x450.width-1200.format-webp.webp" alt="Equipo trabajando en colaboración" width="48%" />
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&q=80" alt="Personas colaborando con tecnología" width="48%" />
+  <img src="https://castrocarazo.info/wp-content/uploads/2021/11/WEB__Python-CC-22-753x438.png" alt="Personas colaborando con tecnología" width="48%" />
 </div>
 
 ## 🤝 Súmate
