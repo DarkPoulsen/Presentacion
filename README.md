@@ -22,7 +22,7 @@ Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunim
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" alt="Espacio de trabajo de desarrollo web" width="100%" />
+      <img src="./Captura de pantalla 2026-11-12 191920.png" alt="Espacio de trabajo de desarrollo web" width="100%" />
       <br><br>
       <h3>Berenice TV</h3>
       <p>Un sitio web hecho para fans del cine.</p>
