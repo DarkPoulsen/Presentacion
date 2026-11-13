@@ -70,7 +70,7 @@ Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprend
 ## 📸 En nuestro espacio
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80" alt="Equipo trabajando en colaboración" width="48%" />
+  <img src="https://universidadeuropea.com/resources/media/images/usos-python_800x450.width-1200.format-webp.webp" alt="Equipo trabajando en colaboración" width="48%" />
   <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&q=80" alt="Personas colaborando con tecnología" width="48%" />
 </div>
 
