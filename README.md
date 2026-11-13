@@ -1,16 +1,11 @@
 <div align="center">
 
-# NAVRI
+<img src="./header.svg" alt="NAVRI Header Animado" width="100%" />
 
-### Ideas que se convierten en proyectos.
+<br><br>
 
-Un grupo creativo que explora el desarrollo web, la programación y la tecnología.
-
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=85" alt="Tecnología y circuitos" width="900" />
-
-[![HTML](https://img.shields.io/badge/HTML- proyectos-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#proyectos)
-[![Python](https://img.shields.io/badge/Python-proyectos-3776AB?style=for-the-badge&logo=python&logoColor=white)](#proyectos)
-[![GitHub](https://img.shields.io/badge/Hecho_con-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-proyectos-E3242B?style=for-the-badge&logo=python&logoColor=white)](#proyectos)
+[![GitHub](https://img.shields.io/badge/Hecho_con-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
