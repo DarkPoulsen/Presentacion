@@ -27,6 +27,8 @@ Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunim
 <br><br>
 
 Un sitio web hecho para fans del cine.
+<br>
+BereniceTV v2.1 Beta © 2026
 
 <p><code>HTML</code> <code>CSS</code> <code>Python</code> <code>JavaScript</code></p>
 
