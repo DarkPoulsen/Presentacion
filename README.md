@@ -15,7 +15,7 @@
 
 Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunimos nuestros experimentos, páginas web y herramientas hechas con **HTML, CSS, JavaScript y Python**.
 
-> 🚀 Aprendemos haciendo: cada proyecto es una oportunidad para probar algo nuevo.
+> 🚀 **Aprendemos haciendo:** cada proyecto es una oportunidad para probar algo nuevo.
 
 ## ✨ Proyectos
 
@@ -23,28 +23,38 @@ Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunim
   <tr>
     <td width="50%" valign="top">
       <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" alt="Espacio de trabajo de desarrollo web" width="100%" />
-      <h3>🌐 NAVRI Web</h3>
-      <p>Un sitio web para presentar al grupo, sus ideas y sus proyectos. Construido con HTML y CSS.</p>
-      <p><code>HTML</code> <code>CSS</code></p>
-      <a href="#">Ver proyecto</a> · <a href="#">Ver código</a>
+      <br><br>
+      <h3>Berenice TV</h3>
+      <p>Un sitio web hecho para fans del cine.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Python</code> <code>JavaScript</code></p>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_proyecto-E3242B?style=for-the-badge" alt="Ver Proyecto"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_código-000000?style=for-the-badge&logo=github" alt="Código"></a>
     </td>
     <td width="50%" valign="top">
       <img src="https://images.unsplash.com/photo-1526379879527-8559ecfcaec0?auto=format&fit=crop&w=900&q=80" alt="Código en una pantalla" width="100%" />
+      <br><br>
       <h3>🐍 NAVRI Python</h3>
       <p>Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprender programación.</p>
       <p><code>Python</code></p>
-      <a href="#">Ver proyecto</a> · <a href="#">Ver código</a>
+      <a href="https://ejemplo.com"><img src="https://img.shields.io/badge/Ir_a_la_página-E3242B?style=for-the-badge" alt="Demo"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_código-000000?style=for-the-badge&logo=github" alt="Código"></a>
     </td>
   </tr>
 </table>
 
-> **Personaliza esta sección:** cambia las imágenes y reemplaza los enlaces `#` por las direcciones de tus repositorios o demos.
+> 💡 **Nota:** Reemplaza los enlaces `#` en el código por las URLs de tus repositorios.
 
 ## 🧰 Lo que usamos
 
-- **Web:** HTML, CSS y JavaScript
-- **Programación:** Python
-- **Herramientas:** Git y GitHub
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-E3242B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br>
 
 ## 📸 En nuestro espacio
 
@@ -59,6 +69,7 @@ Somos **NAVRI**, un grupo con ganas de aprender, crear y compartir. Aquí reunim
 
 <div align="center">
 
-**NAVRI · Crear, aprender y compartir.**
+**NAVRI · Crear, aprender y compartir.** <br>
+🔴 ⚫ ⚪
 
 </div>
