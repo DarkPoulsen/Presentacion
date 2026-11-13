@@ -41,7 +41,7 @@ Un sitio web hecho para fans del cine.
 
 ### 🐍 NAVRI Python
 
-<img src="https://images.unsplash.com/photo-1526379879527-8559ecfcaec0?auto=format&fit=crop&w=900&q=80" alt="Código en una pantalla" width="80%" />
+<img src="https://www.profesionalonline.com/blog/wp-content/uploads/2026/03/1634238771-python-extension-economicas_1200_1200.jpg" alt="Código en una pantalla" width="80%" />
 <br><br>
 
 Pequeñas aplicaciones y herramientas en Python para resolver problemas y aprender programación.
